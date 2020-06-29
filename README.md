@@ -1,6 +1,6 @@
 # My Vegetable Garden
 
-This project has been developed in less than 48 hours during the Flutter Community Hack20.
+This project has been developed in less than 48 hours during the *Flutter Community Hack20*.
 
 Growing your own vegetable is healthy, fun, and easy. And during this pandemic, getting proper nutrition is getting difficult. Research has also shown that growing your own vegetable is beneficial during this pandemic. It minimizes the risk of the spread of this disease.
 
