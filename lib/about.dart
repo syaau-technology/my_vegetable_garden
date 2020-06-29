@@ -63,7 +63,8 @@ class About extends StatelessWidget {
                   ),
                   SizedBox(height: 32),
                   Text(
-                    '#hack20',
+                    'Flutter Community\n#Hack20',
+                    textAlign: TextAlign.center,
                     style: TextStyle(
                         fontWeight: FontWeight.w800,
                         color: Colors.blue,

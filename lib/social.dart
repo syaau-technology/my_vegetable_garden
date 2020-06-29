@@ -24,7 +24,7 @@ class _SocialState extends State<Social> {
 //          color: kDefaultBackgroundColor,
         child: ListView.builder(
             itemCount: users.length,
-            itemBuilder: (BuildContext ctxt, int index) {
+            itemBuilder: (BuildContext context, int index) {
               return Padding(
                 padding: const EdgeInsets.all(10),
                 child: ClipRRect(
@@ -85,19 +85,6 @@ class _SocialState extends State<Social> {
                 ),
               );
             }),
-//          Column(
-//            mainAxisAlignment: MainAxisAlignment.center,
-//            crossAxisAlignment: CrossAxisAlignment.center,
-//            children: [
-//              Card(
-//                color: kDefaultBackgroundColor,
-//                child: Image.network(
-//                  'https://source.unsplash.com/featured/?vegetable,garden',
-//                  fit: BoxFit.fitWidth,
-//                ),
-//              )
-//            ],
-//          ),
       ),
     );
   }

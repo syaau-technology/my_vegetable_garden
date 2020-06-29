@@ -24,6 +24,7 @@ class GardeningApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'My Vegetable Garden',
       home: MainPage(),
     );

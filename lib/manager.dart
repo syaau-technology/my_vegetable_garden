@@ -49,7 +49,6 @@ String getBackgroundImageUrl(Tabs tab) {
   switch (tab) {
     case Tabs.gardening:
       return 'assets/images/background/markus-spiske-4PG6wLlVag4-unsplash.jpg';
-//      return 'assets/images/background/markus-spiske-bk11wZwb9F4-unsplash.jpg';
       break;
     case Tabs.plants:
       return 'assets/images/background/megan-thomas-xMh_ww8HN_Q-unsplash.jpg';
@@ -191,8 +190,8 @@ class Plant {
 List<Plant> currentPlants = <Plant>[
   Plant(2, Plants.carrot, DateTime.utc(2020, 6, 21), DateTime.utc(2020, 6, 27)),
   Plant(4, Plants.beet, DateTime.utc(2020, 6, 24), DateTime.utc(2020, 6, 26)),
-  Plant(5, Plants.strawberry, DateTime.utc(2020, 6, 27),
-      DateTime.utc(2020, 6, 28)),
+  Plant(
+      5, Plants.lettuce, DateTime.utc(2020, 6, 27), DateTime.utc(2020, 6, 28)),
   Plant(
       6, Plants.cabbage, DateTime.utc(2020, 6, 27), DateTime.utc(2020, 6, 28)),
 //  Plant(7, Plants.radish, DateTime.utc(2020, 6, 27), DateTime.utc(2020, 6, 28)),
