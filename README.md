@@ -1,16 +1,16 @@
-# myvegetablegarden
+# My Vegetable Garden
 
-Growing your own veggies. Healthy. Fun. Easy.
+This project has been developed in less than 48 hours during the *Flutter Community Hack20*.
 
-## Getting Started
+Growing your own vegetable is healthy, fun, and easy. And during this pandemic, getting proper nutrition is getting difficult. Research has also shown that growing your own vegetable is beneficial during this pandemic. It minimizes the risk of the spread of this disease.
 
-This project is a starting point for a Flutter application.
+This app has 3 parts:
 
-A few resources to get you started if this is your first Flutter project:
+1. Learning Section
+	- You can easily learn about gardening basics needed to start their own garden.
+2. Managing Section
+	- You can manage the plants in your garden and keep track of them.
+3. Social Section
+	- You can view photos of other people's garden and also share photos of your garden.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+With this app, Grow your own food and Know exactly what goes into your body. And Learning a new skill is always a good thing.
