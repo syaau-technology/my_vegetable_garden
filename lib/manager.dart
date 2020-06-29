@@ -239,11 +239,11 @@ List<GardeningItem> gardeningItems = <GardeningItem>[
     <GardeningContent>[
       GardeningContent(
         'assets/images/icons/garden_gloves.png',
-        'Garden Gloves\n\nIt is used to protect hands from dirt and other sharp objects that mey be found in soil.',
+        'Garden Gloves\n\nIt is used to protect hands from dirt and other sharp objects that may be found in soil.',
       ),
       GardeningContent(
         'assets/images/icons/garden_shears.png',
-        'Garden Shears\n\nIt is used for pruning plants so tht it has optimal growth and produces the best fruits, vegetables, and flowers.',
+        'Garden Shears\n\nIt is used for pruning plants so that it has optimal growth and produces the best fruits, vegetables, and flowers.',
       ),
       GardeningContent(
         'assets/images/icons/spade.png',
@@ -251,7 +251,7 @@ List<GardeningItem> gardeningItems = <GardeningItem>[
       ),
       GardeningContent(
         'assets/images/icons/water_hose.png',
-        'Water Hose\n\nIt it used to water lage areas or if the tap is not near by.',
+        'Water Hose\n\nIt it used to water large areas or if the tap is not near by.',
       ),
       GardeningContent(
         'assets/images/icons/watering_can.png',
